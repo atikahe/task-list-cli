@@ -1,0 +1,25 @@
+{
+  "name": "@atikahe/task-list-cli",
+  "version": "1.0.0",
+  "description": "A CLI app for task management",
+  "main": "bin/index.js",
+  "module": "src/main.js",
+  "bin": {
+    "task-list": "bin/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "task-list"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
