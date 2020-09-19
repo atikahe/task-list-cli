@@ -26,6 +26,13 @@ node . get
 ```
 inside the directory. Keep in mind that this is a problem that have yet to be resolved.
 
+## Challenges
+The challenge of this project lies on implementing the store library and offline-availability. Personally, I'd need further reading and understanding of the library to be able to debug this project. As of now, this app cannot initialize the local database, hence unable to run the rest of the program. This is a massive blocker and any advise/suggestion is highly appreciated.
+
+## TODOs
+Per recent commit, here's todo checklist:
+1. Add unit tests
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
