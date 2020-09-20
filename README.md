@@ -39,5 +39,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Credits
+[Yargs](https://www.npmjs.com/package/yargs)
+[node-couchdb](https://www.npmjs.com/package/node-couchdb)
+[PouchyStore](https://github.com/eFishery/pouchy-store)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
