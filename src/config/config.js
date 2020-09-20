@@ -3,5 +3,8 @@ module.exports = {
   couchDBAuth: {
       username: 'admin',
       password: 'iniadmin',
-  }
+  },
+  couchDBHost: '13.250.43.79',
+  couchDBProtocol: 'http',
+  couchDBPort: '5984'
 }
